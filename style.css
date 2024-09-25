@@ -1,0 +1,16 @@
+body {
+    background-color: #000000;
+    color: white;
+    font-family: "Syne", sans-serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 700px;
+    margin: 0;
+}
+
+button {
+    background-color: #06c200bb;
+    color: rgb(255, 255, 255);
+    font-family: "Syne", sans-serif;
+}
